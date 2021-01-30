@@ -1,4 +1,4 @@
-# int493-software-arch-high-scalability
+# int493-software-arch-homework-1
 
 > Project contains lab of int493 software arch for high scalability web application
 
