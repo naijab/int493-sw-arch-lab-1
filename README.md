@@ -1,6 +1,4 @@
-# int493-software-arch-high-scalability
-
-> Project contains lab of int493 software arch for high scalability web application
+# INT493 Homework 1 - Simple Web API with Github CI
 
 ## How to run
 1. run `./gradlew build`
